@@ -10,11 +10,37 @@ using System.Windows.Forms;
 
 namespace EVMAN12
 {
-    public partial class Form1 : Form
+    public partial class FrmLogin : Form
     {
-        public Form1()
+        public FrmLogin()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if(txtUsername.Text == ""){
+                MessageBox.Show("Korisnicko ime nije uneseno!", "Problem", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (txtPassword.Text == "")
+            {
+                MessageBox.Show("Lozinka nije uneseno!", "Problem", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

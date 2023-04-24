@@ -1,0 +1,11 @@
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\bin\Debug\EVMAN12.exe.config
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\bin\Debug\EVMAN12.exe
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\bin\Debug\EVMAN12.pdb
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\obj\Debug\EVMAN12.csproj.AssemblyReference.cache
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\obj\Debug\EVMAN12.csproj.SuggestedBindingRedirects.cache
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\obj\Debug\EVMAN12.FrmLogin.resources
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\obj\Debug\EVMAN12.Properties.Resources.resources
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\obj\Debug\EVMAN12.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\obj\Debug\EVMAN12.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\obj\Debug\EVMAN12.exe
+C:\Users\foi.LABOS\source\repos\SandraS\EVMAN12\EVMAN12\obj\Debug\EVMAN12.pdb
