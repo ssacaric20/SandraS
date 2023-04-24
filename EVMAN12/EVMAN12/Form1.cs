@@ -12,6 +12,8 @@ namespace EVMAN12
 {
     public partial class FrmLogin : Form
     {
+        string username = "nastavnik";
+        string password = "test";
         public FrmLogin()
         {
             InitializeComponent();
@@ -40,6 +42,17 @@ namespace EVMAN12
             else if (txtPassword.Text == "")
             {
                 MessageBox.Show("Lozinka nije uneseno!", "Problem", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                if (txtUsername.Text == username && txtPassword.Text == password)
+                {
+                    MessageBox.Show("Dobrodosli!", "Prijavljeni ste", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show("Krivi podaci!", "Problem", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
     }
